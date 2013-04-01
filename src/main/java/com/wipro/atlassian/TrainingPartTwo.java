@@ -14,5 +14,7 @@ public class TrainingPartTwo {
 		System.out.println("This is Hello World Program");
 		
 		System.out.println("This is test line");
+		
+		System.out.println("Added Third Statement");
 	}
 }
