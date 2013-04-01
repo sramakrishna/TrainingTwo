@@ -16,4 +16,10 @@
   
   </dependencies>
   
+  <developers>
+    <developer>
+     <name>Ramakrishna Sharvirala</name>
+    </developer>
+  </developers>
+  
 </project>
